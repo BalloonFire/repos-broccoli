@@ -1,0 +1,13 @@
+Introduction to concept of AI
+Purpose: reduce security by chat bot
+Outcome: safer inviroment for all
+Solution:
+OpenAI: establish from many human invention
+ChatGPT: Became popular as of late.
+AI art:
+Issues:
+Misuse of ChatGPT(cheating), security issues, ...
+Lack of artistic vision,
+Conclusion:
+Deadline March 28th
+Journal paper

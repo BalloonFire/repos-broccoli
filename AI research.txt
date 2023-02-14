@@ -11,6 +11,15 @@ Negative, Support
 Summary
 Ending.
 References:
-Problem question:
+Problem question: Why is AI
 name
 Fidelity: Guess how easy hard a project is
+supervised -> classification
+unsupervised -? clustering
+neurons chemical inside brain nervious system
+Springer
+IEEE
+Elsiever
+ACM
+Taylor and Francis
+Willey
