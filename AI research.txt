@@ -17,6 +17,7 @@ Fidelity: Guess how easy hard a project is
 supervised -> classification
 unsupervised -? clustering
 neurons chemical inside brain nervious system
+25-30 references
 Springer
 IEEE
 Elsiever
